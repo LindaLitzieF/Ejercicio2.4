@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio2.4</string>
+    <string name="guardar_firma">Guardar Firma</string>
+    <string name="lista_de_firmas">Lista de Firmas</string>
+    <string name="descripcion">Ingrese la descripción</string>
+    <string name="textview">TextView</string>
+</resources>
